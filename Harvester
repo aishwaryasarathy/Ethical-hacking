@@ -1,0 +1,6 @@
+ Open Terminal in the kali linux 
+STEP 2: Run the following command 
+Command: theHarvester -d arms.sse.saveetha.com-l 300 -b all 
+ Step 4: run this command “theHarvester -d arms.sse.saveetha.com -l 300 -b all -f test”
+and hit enter to export the result as html file and xml file 
+ Step 5: now close the terminal and navigate the home folder and search
