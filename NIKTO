@@ -1,6 +1,0 @@
-Step 1: open a terminal window and type nikto –H and press enter 
-Step 2: Type nikto –h <website> Tuning x and press enter
-Step 3: Nikto starts web server scanning with all tuning options enabled. 
-Step4:In the terminal window type “nikto –h <website>-Cgidirs all”and hit enter 
-Step 5. Nikto will scan the webserver as it looks vulnerable CGI directories. 
-It scans the webserver and list out the directories
