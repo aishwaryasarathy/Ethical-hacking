@@ -1,7 +1,0 @@
-Capture the packets (TCP / UDP / HTTP) 
-2. Filter those packets 
-3. Inspect those packets 
-Step 1: Install and open WireShark . 
-Step 2: To capture TCP / UDP /HTTP Packet. 
-Step 3: to Filter TCP / UDP /HTTP Packet. 
-Step4: to inspect the TCP / UDP /HTTP Packet.
