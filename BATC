@@ -1,8 +1,0 @@
-Double-click this New Text Document to open your default text editor. Copy and paste the following code into your text entry.
-
->> @echo off
->> echo hello
->> Pause
->> echo This is new
->> echo this is second one
->> pause
